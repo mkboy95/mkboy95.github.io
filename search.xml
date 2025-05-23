@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>Hello World</title>
-    <url>/2025/05/14/hello-world/</url>
+    <url>/posts/undefined.html</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
 
@@ -16,6 +16,19 @@
 <h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>欢迎来到超赞博客</title>
+    <url>/posts/30914.html</url>
+    <content><![CDATA[<h1 id="探索-超赞-的奇妙世界"><a href="#探索-超赞-的奇妙世界" class="headerlink" title="探索 超赞 的奇妙世界"></a>探索 超赞 的奇妙世界</h1><p>欢迎来到 超赞博客，专注于分享软件资源、IOS限免、IOS伪装上架。各类神器应有尽有</p>
+<h2 id="我们的全部平台"><a href="#我们的全部平台" class="headerlink" title="我们的全部平台"></a>我们的全部平台</h2><h3 id="1-公众号"><a href="#1-公众号" class="headerlink" title="1. 公众号"></a>1. 公众号</h3><h4 id="公众号：破姐应用库"><a href="#公众号：破姐应用库" class="headerlink" title="公众号：破姐应用库"></a>公众号：破姐应用库</h4><p>专注分享<code>安卓破解资源</code>  <code>影视</code>  <code>工具</code>  <code>小说</code>  <code>动漫</code>  <code>听书</code> 等神器。</p>
+<h4 id="公众号：IOS付费应用免费分享"><a href="#公众号：IOS付费应用免费分享" class="headerlink" title="公众号：IOS付费应用免费分享"></a>公众号：IOS付费应用免费分享</h4><p>专注分享 <code>IOS限免</code>  <code>IOS伪装上架</code>  <code>影视</code>  <code>工具</code>  <code>小说</code>  <code>动漫</code>  <code>听书</code> 等神器。</p>
+<h4 id="公众号：爱学青年"><a href="#公众号：爱学青年" class="headerlink" title="公众号：爱学青年"></a>公众号：爱学青年</h4><p>专注分享 <code>各类学习资料</code> <code>考试资料</code> <code>早教</code> <code>小初高</code> <code>大学</code> <code>国考公考</code> <code>教师资格</code> <code>各类职业技能</code>  </p>
+<h3 id="2-小程序"><a href="#2-小程序" class="headerlink" title="2. 小程序"></a>2. 小程序</h3><h4 id="小程序：超赞应用库"><a href="#小程序：超赞应用库" class="headerlink" title="小程序：超赞应用库"></a>小程序：超赞应用库</h4><p>配合<code>破姐应用库</code>公众号，获取资源使用。内含超多<code>美女壁纸</code></p>
+<h4 id="小程序：每刻分享"><a href="#小程序：每刻分享" class="headerlink" title="小程序：每刻分享"></a>小程序：每刻分享</h4><p>配合 <code>爱学青年</code>公众号，获取资源使用，内含超多<code>学习资源</code></p>
+<h3 id="3-超赞博客"><a href="#3-超赞博客" class="headerlink" title="3. 超赞博客"></a>3. 超赞博客</h3><p>博主个人博客，专注分享各类网络技术，资源发布，互联网前沿</p>
+<h3 id="4-免费短剧"><a href="#4-免费短剧" class="headerlink" title="4. 免费短剧"></a>4. 免费短剧</h3><p><a href="https://github.com/doocs">点击直达</a>  免费观看全网短剧，可直接搜索全网影视资源。</p>
 ]]></content>
   </entry>
 </search>

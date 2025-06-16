@@ -32,22 +32,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>全球网络加速安卓教程</title>
-    <url>/posts/b48e/</url>
-    <content><![CDATA[<p>本文仅分享工具使用方法，仅用于学习交流，无任何不良用途，请大家谨慎观看。</p>
-<h2 id="安卓端工具使用方法"><a href="#安卓端工具使用方法" class="headerlink" title="安卓端工具使用方法"></a>安卓端工具使用方法</h2><h3 id="1-下载并安装-Clash-for-Android-客户端。"><a href="#1-下载并安装-Clash-for-Android-客户端。" class="headerlink" title="1.下载并安装 Clash for Android 客户端。"></a>1.下载并安装 Clash for Android 客户端。</h3><p><a href="https://0f6g7.big-files.make-w0rld-static.club:8000/file/ikuuu-static-release/cfa-iku/cfa-iku-1.0.0/clash-for-android.apk">点我直接下载</a></p>
-<h3 id="2-添加订阅线路"><a href="#2-添加订阅线路" class="headerlink" title="2.添加订阅线路"></a>2.添加订阅线路</h3><p>去小程序获取订阅地址，打开clash软件，点击【配置】右上角加号，URL导入，将小程序获取的地址粘贴进去保存</p>
-<p><img src="https://tp.pj365.top/1749574697984.png" alt="image"></p>
-<h3 id="3-简单配置"><a href="#3-简单配置" class="headerlink" title="3.简单配置"></a>3.简单配置</h3><p>1）打开 Clash App<br>2）选择【设置】<br>3）选择【覆写】</p>
-<p><img src="https://tp.pj365.top/1749574803567.png" alt="image"></p>
-<p>4）DNS - 策略 -【不修改】<br>5）DNS - 增强模式 -【Fake-IP 至域名映射】</p>
-<p><img src="https://tp.pj365.top/1749574831070.png" alt="image"></p>
-<h3 id="4-开始使用"><a href="#4-开始使用" class="headerlink" title="4.开始使用"></a>4.开始使用</h3><p>1）回到主界面，点击顶部灰色卡片，卡片颜色变成蓝色即代表代理已开启。<br>2）开启后，可在第二个卡片 代理 里切换节点。</p>
-<p><img src="https://tp.pj365.top/1749574848235.png" alt="image"></p>
-<p>以后每天获取到最新的链接，只操作第二步即可。</p>
-]]></content>
-  </entry>
-  <entry>
     <title>全球网络加速苹果教程</title>
     <url>/posts/54d0/</url>
     <content><![CDATA[<p>本文仅分享工具使用方法，仅用于学习交流，无任何不良用途，请大家谨慎观看。</p>
@@ -65,5 +49,37 @@
 <p>然后url位置，填入在小程序获取到的网址，保存</p>
 <p><img src="https://tp.pj365.top/1749574933871.png" alt="image"></p>
 <h3 id="首页打开开关即可"><a href="#首页打开开关即可" class="headerlink" title="首页打开开关即可"></a>首页打开开关即可</h3>]]></content>
+  </entry>
+  <entry>
+    <title>全球网络加速安卓V2ray教程</title>
+    <url>/posts/2f34/</url>
+    <content><![CDATA[<p>本文仅分享工具使用方法，仅用于学习交流，无任何不良用途，请大家谨慎观看。</p>
+<h2 id="安卓端工具使用方法"><a href="#安卓端工具使用方法" class="headerlink" title="安卓端工具使用方法"></a>安卓端工具使用方法</h2><h3 id="1-下载并安装-V2rayNG-客户端。"><a href="#1-下载并安装-V2rayNG-客户端。" class="headerlink" title="1.下载并安装 V2rayNG 客户端。"></a>1.下载并安装 V2rayNG 客户端。</h3><p><a href="https://v2rayng.2dust.link/">点我直接下载</a></p>
+<h3 id="2-添加订阅线路"><a href="#2-添加订阅线路" class="headerlink" title="2.添加订阅线路"></a>2.添加订阅线路</h3><p>去小程序获取订阅地址，打开v2ray软件，点击上角三条横杠，订阅分组设置，然后点击加号</p>
+<p><img src="https://tp.pj365.top/1750085036518.jpg" alt="image"></p>
+<p>备注随意填写，URL位置：填写在小程序获取到的链接</p>
+<p><img src="https://tp.pj365.top/1750085093759.jpg" alt="image"></p>
+<h3 id="3-开始使用"><a href="#3-开始使用" class="headerlink" title="3.开始使用"></a>3.开始使用</h3><p>1）回到主界面，点击你写的备注的名字，点击右上角三个点</p>
+<p>2）先选择 更新当前分组，再点击测速，找到一个速度还不错的线路，点击它</p>
+<p>3）点击右下角的开始按钮，即可开始奔放</p>
+<p><img src="https://tp.pj365.top/1750085195947.jpg" alt="image"></p>
+<p>以后每天获取到最新的链接，只操作第二步即可。</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>全球网络加速安卓教程</title>
+    <url>/posts/b48e/</url>
+    <content><![CDATA[<p>本文仅分享工具使用方法，仅用于学习交流，无任何不良用途，请大家谨慎观看。</p>
+<h2 id="安卓端工具使用方法"><a href="#安卓端工具使用方法" class="headerlink" title="安卓端工具使用方法"></a>安卓端工具使用方法</h2><h3 id="1-下载并安装-Clash-for-Android-客户端。"><a href="#1-下载并安装-Clash-for-Android-客户端。" class="headerlink" title="1.下载并安装 Clash for Android 客户端。"></a>1.下载并安装 Clash for Android 客户端。</h3><p><a href="https://0f6g7.big-files.make-w0rld-static.club:8000/file/ikuuu-static-release/cfa-iku/cfa-iku-1.0.0/clash-for-android.apk">点我直接下载</a></p>
+<h3 id="2-添加订阅线路"><a href="#2-添加订阅线路" class="headerlink" title="2.添加订阅线路"></a>2.添加订阅线路</h3><p>去小程序获取订阅地址，打开clash软件，点击【配置】右上角加号，URL导入，将小程序获取的地址粘贴进去保存</p>
+<p><img src="https://tp.pj365.top/1749574697984.png" alt="image"></p>
+<h3 id="3-简单配置"><a href="#3-简单配置" class="headerlink" title="3.简单配置"></a>3.简单配置</h3><p>1）打开 Clash App<br>2）选择【设置】<br>3）选择【覆写】</p>
+<p><img src="https://tp.pj365.top/1749574803567.png" alt="image"></p>
+<p>4）DNS - 策略 -【不修改】<br>5）DNS - 增强模式 -【Fake-IP 至域名映射】</p>
+<p><img src="https://tp.pj365.top/1749574831070.png" alt="image"></p>
+<h3 id="4-开始使用"><a href="#4-开始使用" class="headerlink" title="4.开始使用"></a>4.开始使用</h3><p>1）回到主界面，点击顶部灰色卡片，卡片颜色变成蓝色即代表代理已开启。<br>2）开启后，可在第二个卡片 代理 里切换节点。</p>
+<p><img src="https://tp.pj365.top/1749574848235.png" alt="image"></p>
+<p>以后每天获取到最新的链接，只操作第二步即可。</p>
+]]></content>
   </entry>
 </search>
